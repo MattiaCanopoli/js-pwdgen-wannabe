@@ -8,3 +8,5 @@ const pwdNum = num1 / num2;
 const SuperSecretPWD = userFirstName + userLastName + userFavColor + pwdNum;
 
 console.log(SuperSecretPWD);
+
+document.getElementById("SuperSecretPWD").innerHTML = SuperSecretPWD;
