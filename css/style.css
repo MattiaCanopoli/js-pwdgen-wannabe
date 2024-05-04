@@ -1,0 +1,15 @@
+.my-text-color{
+    color: rgb(196, 196, 196);
+}
+
+#SuperSecretPWD{
+color: rgb(33,37,41);
+    transition: color .5s;
+    border: .125rem solid rgba(196,196,196);
+}
+#SuperSecretPWD:hover{
+    color: rgb(196, 196, 196);
+
+
+}
+
