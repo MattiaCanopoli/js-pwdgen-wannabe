@@ -1,7 +1,11 @@
+body{
+    font-family: "IBM Plex Mono", monospace;
+}
+
+
 .my-text-color{
     color: rgb(196, 196, 196);
 }
-
 
 #SuperSecretPWD{
 color: rgb(33,37,41);
@@ -11,5 +15,9 @@ color: rgb(33,37,41);
 }
 #SuperSecretPWD:hover{
     color: rgb(196, 196, 196);
+
 }
 
+img{
+    max-height: 70px;
+}
