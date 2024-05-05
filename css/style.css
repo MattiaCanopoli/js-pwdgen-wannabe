@@ -12,15 +12,12 @@ body {
     /* transition: color .8s; */
     border: .125rem solid rgba(196, 196, 196);
     box-shadow: rgb(33, 37, 41);
-    transition: box-shadow 1s, color 1s;
+    transition: box-shadow 1s, color 1.5s 50ms;
 }
 
 #SuperSecretPWD:hover {
     color: rgb(196, 196, 196);
     box-shadow: rgba(196, 196, 196, 0.781) 0 0 8px 8px;
-
-
-
 }
 
 
